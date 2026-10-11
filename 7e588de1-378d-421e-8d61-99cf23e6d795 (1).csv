@@ -1,0 +1,221 @@
+id,agent_id,user_number,agent_number,status,duration,recording_url,transcript,created_at,scheduled_at,total_cost,hangup_by,hangup_reason
+fec289d1-399b-4b42-a619-e94d2320a023,7e588de1-378d-421e-8d61-99cf23e6d795,+917981974105,+918071580188,completed,54.0,https://api.bolna.ai/recordings/call/fec289d1-399b-4b42-a619-e94d2320a023,"assistant: Hello I'm Sai , I'm calling from Home Credit. Is this a good time to talk?
+user:  yes
+assistant:  Thank you for confirming. Home Credit has a pre-approved Loan Against Property offer for you of up to seventy-five lakh rupees. Would you like to know more about it?
+user:  yes
+assistant:  To check your eligibility, I will need to ask you a few quick questions. It should only take about three to four minutes. Are you comfortable to proceed?
+user:  okay
+assistant:   Do you currently own a residential or commercial property, either in your name or jointly with someone?
+user:  yeah
+assistant:   What would you estimate the current market value of that property to be, roughly?
+user:  around five lakhs
+assistant: Thank you for sharing those details with us. Based on the information you provided, we are not able to proceed with the pre- qualification at this time. We appreciate your time and hope to be of service in the future. Have a good day.
+",2026-10-10T12:32:10.604022+00:00,,6.0,Caller,end_call_tool
+17ed0af0-c6e0-48fb-92a3-a3458991a4c2,7e588de1-378d-421e-8d61-99cf23e6d795,+917981974105,+918071580188,completed,225.0,https://api.bolna.ai/recordings/call/17ed0af0-c6e0-48fb-92a3-a3458991a4c2,"assistant: Hello I'm Sai , I'm calling from Home Credit. Is this a good time to talk?
+user:  yes
+assistant:  Thank you for confirming. You are an existing customer with us, and I am reaching out about a pre-approved Loan Against Property offer that has been made available for you. May I take a couple of minutes to share the details?
+user:  yes
+assistant:  Home Credit has a pre-approved Loan Against Property offer for you of up to seventy-five lakh rupees. Would you like to know more about it?
+user:  yes
+assistant:  To check your eligibility, I will need to ask you a few quick questions. It should only take about three to four minutes. Are you comfortable to proceed?
+user:  yeah
+assistant:  Do you currently own a residential or commercial property, either in your name or jointly with someone?
+user:  on my my name only
+assistant:   Thank you. What would you estimate the current market value of that property to be, roughly?
+user:  fifty to seventy lakhs
+assistant:   Thank you. Do you currently have any active loans or EMIs, and if yes, roughly how much do you pay each month toward them?
+user:  fifty to sixty thousand per month
+assistant:   What is your approximate monthly income?
+user:  around two to three lakhs
+assistant:   Are you currently salaried, self-employed, or do you run your own business?
+user:  i'll run my own business
+assistant:   Do you have a sense of your current credit score? For example, would you say it is around seven hundred or above?
+user:  it's nearly seven fifty above or i think seven eighty
+assistant:   Could you share your current age?
+user:  it's twenty two
+assistant:  We just need to confirm your age falls within our eligible bracket of twenty-three to sixty-five years. Could you share it?
+user:  yeah it's twenty five
+assistant:   Based on your responses, you appear to meet the initial eligibility criteria for the Loan Against Property offer. I would like to connect you with a senior loan expert right away who can walk you through the next steps. Would that be okay?
+user:  not now i will be calling you later time
+assistant:   I understand. Would you prefer to proceed now, or shall I schedule a callback at a time that works better for you?
+user:  can you speak in both english or hindi
+assistant:   I am SaiShashank calling from Home Credit. I can assist you in English for this call. Does that help, or did you have any other questions?
+user: ആ. Can you speak in Hindi?
+assistant: That
+assistant:  मैं Home Credit की SaiShashank हूँ, और मैं हिंदी में आपकी मदद कर सकती हूँ. क्या मैं eligibility check के लिए कुछ सवाल पूछ सकती हूँ?
+user:  ok i will end up this call
+assistant: कोई बात नहीं. इस offer पर विचार करने के लिए धन्यवाद. अगर कभी मन बदले, तो Home Credit आपकी help के लिए हमेशा तैयार है. आपका दिन शुभ रहे.
+",2026-10-10T04:28:02.931997+00:00,,24.0,Caller,end_call_tool
+1e3f1f60-0a26-4138-bee6-eff36536cd24,7e588de1-378d-421e-8d61-99cf23e6d795,+917013051595,+918071580188,completed,60.0,https://api.bolna.ai/recordings/call/1e3f1f60-0a26-4138-bee6-eff36536cd24,"assistant: Hello I'm Sai , I'm calling from Home Credit. Is this a good time to talk?
+user:  yes
+assistant:  Thank you for confirming. You are an existing customer with us, and I am reaching out about a pre-approved Loan Against Property offer that has been made available for you. May I take a couple of minutes to share the details?
+assistant: Hello, are you still on the line?
+user:  yeah i'm on the
+assistant: Home Credit has a pre- approved Loan Against Property offer for you of up to seventy- five lakh rupees. Would you like to know more about it?
+assistant: Hello, are you still on the line?
+assistant: Thank you for your time, have a good day.
+",2026-10-10T12:28:44.878609+00:00,,6.0,Caller,inactivity_timeout
+0ff7f967-7e93-47a5-a697-96dbddcecf6f,7e588de1-378d-421e-8d61-99cf23e6d795,+917013051595,+918071580188,completed,22.0,https://api.bolna.ai/recordings/call/0ff7f967-7e93-47a5-a697-96dbddcecf6f,"assistant: Hello I'm Sai , I'm calling from Home Credit. Is this a good time to talk?
+assistant: Hello, are you still on the line?
+assistant: Thank you for your time, have a good day.
+",2026-10-10T12:27:09.965421+00:00,,3.0,Caller,inactivity_timeout
+2ea16b77-49dc-4c85-a8ba-1cf800e0c5bb,7e588de1-378d-421e-8d61-99cf23e6d795,+916302831873,+918071580188,completed,119.0,https://api.bolna.ai/recordings/call/2ea16b77-49dc-4c85-a8ba-1cf800e0c5bb,"assistant: Hello I'm Sai , I'm calling from Home Credit. Is this a good time to talk?
+user:  yes
+assistant:  Thank you. You are an existing customer with Home Credit, and I am reaching out about a pre-approved Loan Against Property offer that has been made available for you. May I take a couple of minutes to share the details?
+user:  okay
+assistant:  Home Credit has a pre-approved Loan Against Property offer for you of up to seventy-five lakh rupees. Would you like to know more about it?
+user:  yeah
+assistant:   To check your eligibility, I will need to ask you a few quick questions. It should only take about three to four minutes. Are you comfortable to proceed?
+user:  okay
+assistant:  Do you currently own a residential or commercial property, either in your name or jointly with someone?
+user:  yeah
+assistant:   What would you estimate the current market value of that property to be, roughly?
+user:  fifty to fifty lakh
+assistant:   Thank you. Do you currently have any active loans or EMIs, and if yes, roughly how much do you pay each month toward them?
+user:  no i don't buy any of your loan
+assistant:   Thank you for sharing that. What is your approximate monthly income?
+user:  thirty two forty thousand
+assistant:   Thank you. Are you currently salaried, self-employed, or do you run your own business?
+user:  on business
+assistant:   Do you have a sense of your current credit score? For example, would you say it is around seven hundred or above?
+user:  seven twenty to seven forty
+assistant:   Could you share your current age?
+user:  ninety
+assistant: Thank you for sharing those details with us. Based on the information you provided, we are not able to proceed with the pre- qualification at this time. We appreciate your time and hope to be of service in the future. Have a good day.
+",2026-10-10T05:52:28.928784+00:00,,12.0,Caller,end_call_tool
+38c3d0e8-7f72-428d-85c9-5f4bdbbde2b7,7e588de1-378d-421e-8d61-99cf23e6d795,+916302831873,+918071580188,completed,22.0,https://api.bolna.ai/recordings/call/38c3d0e8-7f72-428d-85c9-5f4bdbbde2b7,"assistant: Hello I'm Sai , I'm calling from Home Credit. Is this a good time to talk?
+assistant: Hello, are you still on the line?
+assistant: Thank you for your time, have a good day.
+",2026-10-10T05:50:25.771601+00:00,,3.0,Caller,inactivity_timeout
+4ca0c982-cb1c-450d-b79d-0d1ebcfd0be0,7e588de1-378d-421e-8d61-99cf23e6d795,+919182453685,+918071580188,completed,136.0,https://api.bolna.ai/recordings/call/4ca0c982-cb1c-450d-b79d-0d1ebcfd0be0,"assistant: Hello I'm Sai , I'm calling from Home Credit. Is this a good time to talk?
+user:  yes
+assistant:  Thank you for confirming. You are an existing customer with us, and I am reaching out about a pre-approved Loan Against Property offer that has been made available for you. May I take a couple of minutes to share the details?
+user:  yeah okay
+assistant:  Home Credit has a pre-approved Loan Against Property offer for you of up to seventy-five lakh rupees. Would you like to know more about it?
+user:  yes
+assistant:   To check your eligibility, I will need to ask you a few quick questions. It should only take about three to four minutes. Are you comfortable to proceed?
+user:  yeah okay
+assistant:  Do you currently own a residential or commercial property, either in your name or jointly with someone?
+user:  yes
+assistant:   What would you estimate the current market value of that property to be, roughly?
+user:  okay sixty two four lakh
+assistant:   Do you currently have any active loans or EMIs, and if yes, roughly how much do you pay each month toward them?
+user:  thirty to forty thousand
+assistant:   What is your approximate monthly income?
+user:  place
+assistant:   An approximate figure is fine. Would you say your monthly income is above twenty-five thousand rupees?
+user:  yeah
+assistant:   Are you currently salaried, self-employed, or do you run your own business?
+user:  ten cents right
+assistant:  Just to confirm, are you currently earning through any regular work or business?
+user:  yeah
+assistant:   Do you have a sense of your current credit score? For example, would you say it is around seven hundred or above?
+user:  six fifty to seven hundred
+assistant:  Even a rough idea helps. Have you taken any loans before that were approved without difficulty? That usually indicates a healthy score.
+user:  no
+assistant: Thank you for sharing those details with us. Based on the information you provided, we are not able to proceed with the pre- qualification at this time. We appreciate your time and hope to be of service in the future. Have a good day.
+",2026-10-10T05:41:18.094365+00:00,,15.0,Caller,end_call_tool
+e3fd63b9-f60b-47e2-a229-891027a6fe3f,7e588de1-378d-421e-8d61-99cf23e6d795,+919182453685,+918071580188,busy,0.0,,,2026-10-10T05:34:42.499334+00:00,,0.0,Carrier,Call recipient was busy
+e6586294-75b3-4de8-b3b3-305e909bd6cc,7e588de1-378d-421e-8d61-99cf23e6d795,+918897777605,+918071580188,completed,70.0,https://api.bolna.ai/recordings/call/e6586294-75b3-4de8-b3b3-305e909bd6cc,"assistant: Hello I'm Sai , I'm calling from Home Credit. Is this a good time to talk?
+user:  yes
+assistant:  Thank you for confirming. Home Credit has a pre-approved Loan Against Property offer for you of up to seventy-five lakh rupees. Would you like to know more about it?
+user:  yes
+assistant:  To check your eligibility, I will need to ask you a few quick questions. It should only take about three to four minutes. Are you comfortable to proceed?
+user:  okay
+assistant:   Do you currently own a residential or commercial property, either in your name or jointly with someone?
+user:  yes
+assistant:   What would you estimate the current market value of that property to be, roughly?
+user:  roughly fifteen to twenty lakhs
+assistant:   Just to confirm, would you say the property value is above or below twenty lakh rupees?
+user:  below twenty
+assistant: Thank you for sharing those details with us. Based on the information you provided, we are not able to proceed with the pre- qualification at this time. We appreciate your time and hope to be of service in the future. Have a good day.
+",2026-10-10T05:22:56.179531+00:00,,9.0,Caller,end_call_tool
+d949d564-7ec7-4cd4-ae21-8a158cb9b62b,7e588de1-378d-421e-8d61-99cf23e6d795,+918897777605,+918071580188,completed,63.0,https://api.bolna.ai/recordings/call/d949d564-7ec7-4cd4-ae21-8a158cb9b62b,"assistant: Hello I'm Sai , I'm calling from Home Credit. Is this a good time to talk?
+user:  yes
+assistant:  Thank you for confirming. You are an existing customer with us, and I am reaching out about a pre-approved Loan Against Property offer that has been made available for you. May I take a couple of minutes to share the details?
+user:  okay
+assistant:  Home Credit has a pre-approved Loan Against Property offer for you of up to seventy-five lakh rupees. Would you like to know more about it?
+user:  yes
+assistant:   To check your eligibility, I will need to ask you a few quick questions. It should only take about three to four minutes. Are you comfortable to proceed?
+user:  no
+assistant: I understand, and thank you for taking the time to speak with us. If you ever wish to explore this offer in the future, Home Credit is always here to help. Have a good day.
+",2026-10-10T05:18:31.425877+00:00,,9.0,Caller,end_call_tool
+a8ca1e95-a398-426e-834b-05735aec58c1,7e588de1-378d-421e-8d61-99cf23e6d795,+919951568698,+918071580188,completed,204.0,https://api.bolna.ai/recordings/call/a8ca1e95-a398-426e-834b-05735aec58c1,"assistant: Hello I'm Sai , I'm calling from Home Credit. Is this a good time to talk?
+user:  hello
+assistant: I just wanted to confirm, am I speaking with the right person?
+user: తెలుగులో మాట్లాడండి.
+assistant: నేను మిమ్మల్ని Telugu మాట్లాడే  కి కనెక్ట్ చేస్తున్నాను.
+assistant: నేను SaiShashank, Home Credit నుండి call చేస్తున్నాను. మీరు మాతో ఇప్పటికే customer, మరియు నేను మీకు available చేసిన pre-approved Loan Against Property offer గురించి reach out చేస్తున్నాను. నేను కొన్ని నిమిషాలు తీసుకుని వివరాలు పంచుకోవచ్చా?
+user: చూడు. ఆ, చెప్పు.
+assistant:  Home Credit మీకు seventy-five lakh rupees వరకు pre-approved Loan Against Property offer ఉంది. మీరు దీని గురించి మరిన్ని తెలుసుకోవాలనుకుంటున్నారా?
+user: ఉమ్, చెప్పండి.
+assistant:  మీ eligibility check చేయడానికి, నేను మీకు కొన్ని quick questions అడగవలసి ఉంటుంది. ఇది సుమారు three to four minutes తీసుకుంటుంది. మీరు కొనసాగించడానికి సిద్ధమైనారా?
+user: ఆ, చెప్పండి.
+assistant:  మీరు currently ఒక residential లేదా commercial property own చేస్తున్నారా, మీ పేరుపై లేదా ఎవరితోనైనా jointly?
+user: చేస్తున్నా.
+assistant:  ఆ property యొక్క current market value ఎంత ఉందని estimate చేస్తారు, roughly?
+user: కోటి రూపాయలు.
+assistant:   మీరు currently ఏదైనా active loans లేదా EMIs ఉన్నాయా, మరియు అవును అయితే, మీరు వాటి కోసం ప్రతి month ఎంత pay చేస్తారు?
+user: ఉన్నాయి.
+assistant:  మీరు existing loans కోసం సుమారు నెలకు ఎంత చెల్లిస్తున్నారు?
+user: 30,000.
+assistant:  మీ సుమారు నెలవారీ income ఎంత?
+user: లేకపోతే. 50,000.
+assistant:   మీరు ప్రస్తుతం salary పొందుతున్నారా, self-employed ఉన్నారా, లేదా మీ స్వంత business నడుపుతున్నారా?
+user: సొంత బిజినెస్.
+assistant:  మీ ప్రస్తుత credit score గురించి మీకు ఆలోచన ఉందా? ఉదాహరణకు, ఇది ఏడు వందకు పైన ఉందని చెప్పవచ్చా?
+user: ఉమ్.
+assistant:  మీకు credit score గురించి ఖచ్చితమైన సమాచారం లేకపోయినా, మీరు ఎటువంటి loans తీసుకున్నారా, అవి సులభంగా approve అయ్యాయా? ఇది సాధారణంగా మంచి credit score ను సూచిస్తుంది. చెప్పగలరా?
+user: ఉమ్.
+assistant:  మీ ప్రస్తుత వయస్సు చెప్పగలరా?
+user: 650.
+assistant:  మీ వయస్సు ఇరవై మూడు నుండి అరవై ఐదు సంవత్సరాల మధ్య ఉందని చెప్పగలరా?
+user: ఉమ్.
+assistant:  మీ responses ఆధారంగా, మీరు Loan Against Property offer కోసం ప్రారంభిక eligibility criteria కు సరిపోతున్నట్లు కనిపిస్తున్నారు. నేను మీకు ఒక senior loan expert ను వెంటనే కనెక్ట్ చేయాలనుకుంటున్నాను, వారు తదుపరి steps ను వివరించగలరు. సరిపోతుందా?
+user: 03 అవసరం లేదు.
+assistant: ఇది సంపూర్ణంగా సరిపోతుంది. Offer ను పరిగణించినందుకు ధన్యవాదాలు. మీరు మీ మనస్సు మార్చుకుంటే, Home Credit ఎల్లప్పుడూ సహాయం చేయడానికి ఉంది. మీకు గ్రేట్ డే.
+",2026-10-10T04:47:31.099283+00:00,,21.0,Caller,end_call_tool
+e817643b-d0e5-4fb5-8b29-ebdd47afb69a,7e588de1-378d-421e-8d61-99cf23e6d795,+919912089155,+918071580188,completed,248.0,https://api.bolna.ai/recordings/call/e817643b-d0e5-4fb5-8b29-ebdd47afb69a,"assistant: Hello I'm Sai , I'm calling from Home Credit. Is this a good time to talk?
+user: తెలుగులో మాట్లాడండి.
+assistant: నేను మిమ్మల్ని Telugu మాట్లాడే  కి కనెక్ట్ చేస్తున్నాను.
+assistant: క్షమించండి, నేను తెలుగులోనే మాట్లాడుతున్నాను. మీరు Home Credit నుండి ఉన్న existing customer కాబట్టి, మీకు pre-approved Loan Against Property offer గురించి reach out చేస్తున్నాను. కొన్ని నిమిషాలు తీసుకుని వివరాలు పంచుకోవచ్చా?
+user: చెప్పండి.
+assistant:  Home Credit మీకు seventy-five lakh rupees వరకు pre-approved Loan Against Property offer ఉంది. మీరు దీని గురించి మరిన్ని తెలుసుకోవాలనుకుంటున్నారా?
+user: ఆ, చెప్పండి.
+assistant:  మీ eligibility check చేయడానికి, నేను మీకు కొన్ని quick questions అడగవలసి ఉంటుంది. ఇది సుమారు మూడు నుండి నాలుగు నిమిషాలు తీసుకుంటుంది. మీరు కొనసాగించడానికి సిద్ధమైనారా?
+user: ఆ, ఓకే.
+assistant:   మీరు ప్రస్తుతం ఒక residential లేదా commercial property మీ పేరుపై లేదా ఎవరితోనైనా jointly own చేస్తున్నారా?
+user: ఆ.
+assistant:  ఆ property యొక్క current market value మీరు estimate చేయగలరా, సుమారు ఎంత?
+user: వంకరడు.
+assistant:  క్షమించండి, మీరు చెప్పినది స్పష్టంగా లేదు. ఆ property యొక్క current market value సుమారు ఎంత ఉందని చెప్పగలరా?
+user: ఆ.
+assistant: మీ property
+user: మామూలుగా 1 కోటి ఉండదు, కొంచెం తక్కువ ఉండొచ్చు.
+assistant:  మీ property value ఒక కోటి కంటే తక్కువ అని అర్థం చేసుకున్నాను. దయచేసి సుమారు ఎంత ఉందని estimate చేస్తారు? ఇరవై లక్షల రూపాయల కంటే ఎక్కువ ఉందా?
+user: ఆ, ఉంది అది.
+assistant:   మీరు ప్రస్తుతం ఏదైనా active loans లేదా EMIs ఉన్నాయా? ఉంటే, వాటి కోసం ప్రతి నెల ఎంత చెల్లిస్తున్నారు?
+user: 1 లక్ష. హలో?
+assistant:  మీరు monthly income ఎంత ఉందని చెప్పగలరా?
+user: రిలాక్స్.
+assistant:  సరే, మీరు monthly income ఎంత ఉందని చెప్పగలరా?
+user: 3 లక్షలు.
+assistant:  మీ monthly obligations, అంటే loans లేదా EMIs, మీ income యొక్క అరవై శాతం కంటే తక్కువగా ఉన్నాయా? అంటే, మీరు నెలకు ఇరవై లక్షల రూపాయల కంటే తక్కువగా obligations చెల్లిస్తున్నారా?
+user: అర్థం కాలేదు నాకు.
+assistant:  సరే, మీ నెలవారీ ఆదాయం మూడు లక్షల రూపాయలైతే, మీరు నెలకు ఇరవై లక్షల రూపాయల కంటే తక్కువగా loans లేదా EMIs చెల్లిస్తే, మీరు eligibility కి సరిపోతారు. మీరు ప్రస్తుతం నెలకు ఒక లక్ష రూపాయల EMIs చెల్లిస్తున్నారని చెప్పారు, ఇది సరైనదేనా?
+user: ఉమ్.
+assistant: మీరు ప్రస్తుతం
+user: ఆ, సరే అనేది.
+assistant:   మీరు ప్రస్తుతం salary పొందుతున్నారా, self-employed ఉన్నారా, లేదా మీ స్వంత business నడుపుతున్నారా?
+user: బిజినెస్.
+assistant:  మీకు మీ ప్రస్తుత credit score గురించి ఆలోచన ఉందా? ఉదాహరణకు, ఇది ఏడు వందకు పైన ఉందని చెప్పగలరా?
+user: ఆ, ఉండొచ్చు.
+assistant:  మీ ప్రస్తుత వయస్సు ఎంత? దయచేసి చెప్పగలరా?
+user: 40.
+assistant: మీ responses ఆధారంగా, మీరు Loan Against Property
+user: 45. 45. 43 ఉంటది.
+assistant:  మీ responses ఆధారంగా, మీరు Loan Against Property offer కోసం ప్రారంభిక eligibility criteria కు సరిపోతున్నట్లు కనిపిస్తున్నారు. నేను మీకు ఒక senior loan expert ను వెంటనే కనెక్ట్ చేయాలనుకుంటున్నాను, వారు తదుపరి steps ను వివరించగలరు. సరిపోతుందా?
+user: ఆహా, నాకు ఇప్పుడు.
+user: ఇప్పుడు నాకు ఇప్పుడు ఏం వద్దు.
+assistant: ఇది సంపూర్ణంగా సరిపోతుంది. Offer ను పరిగణించినందుకు ధన్యవాదాలు. మీరు మీ మనస్సు మార్చుకుంటే, Home Credit ఎల్లప్పుడూ సహాయం చేయడానికి ఉంది. మీకు గ్రేట్ డే.
+",2026-10-10T04:38:58.019121+00:00,,27.0,Caller,end_call_tool
